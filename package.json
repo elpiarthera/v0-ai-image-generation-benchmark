@@ -53,7 +53,7 @@
     "html-to-image": "^1.11.11",
     "input-otp": "1.4.1",
     "lucide-react": "^0.454.0",
-    "next": "16.0.0",
+    "next": "16.4.1",
     "next-themes": "^0.4.6",
     "prodia": "1.6.0",
     "react": "19.2.0",
